@@ -1,4 +1,3 @@
-
 print("this program counts up to 10")
 
 #import time
