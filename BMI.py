@@ -1,5 +1,5 @@
 print("           BMI Calculator \n ==================================")
-#Frokydafroakie
+
 n=input("number of users: ")
 name=input("What is your name? ")
 weight=float(input("Okay "+name+", what is your weight in kilograms? "))
